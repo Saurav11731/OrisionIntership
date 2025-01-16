@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "High-quality sound with noise cancellation.",
+    "price": 99.99,
+    "variants": [
+      { "id": 1, "name": "Black", "price": 99.99, "available": true, "image": "black.jpg" },
+      { "id": 2, "name": "White", "price": 89.99, "available": false, "image": "white.jpg" }
+    ],
+    "reviews": [
+      { "id": 1, "user": "John", "comment": "Amazing product!" },
+      { "id": 2, "user": "Jane", "comment": "Good value for money." }
+    ]
+  }
+  

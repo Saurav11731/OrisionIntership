@@ -1,0 +1,15 @@
+[
+    {
+      "id": 2,
+      "name": "Casual Jeans",
+      "price": 49.99,
+      "image": "/assets/jeans.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Leather Jacket",
+      "price": 89.99,
+      "image": "/assets/jacket.jpg"
+    }
+  ]
+  

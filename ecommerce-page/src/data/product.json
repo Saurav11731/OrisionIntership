@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "name": "Premium T-Shirt",
+    "description": "A comfortable and stylish t-shirt.",
+    "price": 19.99,
+    "availability": "In Stock",
+    "variants": [
+      { "id": 1, "name": "Red", "image": "/assets/red-shirt.jpg" },
+      { "id": 2, "name": "Blue", "image": "/assets/blue-shirt.jpg" }
+    ],
+    "images": [
+      "/assets/red-shirt.jpg",
+      "/assets/blue-shirt.jpg",
+      "/assets/green-shirt.jpg"
+    ]
+  }
+  
